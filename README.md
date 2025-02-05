@@ -1,6 +1,5 @@
 # Complete-Javascript-Course
 
-## About The Course
 This repository contains all the projects, exercises, and notes from the **Complete JavaScript Course**. The course covers modern JavaScript (ES6+), best practices, and real-world application development.
 
 
