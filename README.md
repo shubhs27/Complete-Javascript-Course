@@ -32,20 +32,14 @@ This repository contains all the projects, exercises, and notes from the **Compl
 - Higher-Order Functions
 - Functional Programming
 
-### 5. Data Structures and Algorithms
-- Stacks and Queues
-- Sets and Maps
-- Big-O Notation
-
-### 6. Modern JavaScript Features
+### 5. Modern JavaScript Features
 - ES6+ Syntax (Destructuring, Spread/Rest Operators, Optional Chaining)
 - Modules and Tooling (Webpack, Babel, Parcel)
 
-### 7. Real-World Applications
+### 6. Real-World Applications
 - Building Interactive Web Apps
 - API Integration and Fetch
 - State Management
-- Authentication
 
 
 
